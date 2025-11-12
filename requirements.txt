@@ -8,3 +8,5 @@ geopy
 tensorflow
 keras
 pillow
+sklearn
+
