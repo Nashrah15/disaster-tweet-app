@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+joblib
+folium
+streamlit-folium
+geopy
+tensorflow
+keras
+pillow
